@@ -1,2 +1,2 @@
 # java-project
-CodeBuild test on Nov 8
+CodeBuild test 2 on Nov 8
